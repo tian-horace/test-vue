@@ -6,7 +6,7 @@
       "request": "launch",
       "name": "Start Project",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev"],
+      "runtimeArgs": ["run", "start"],
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen"
     }
